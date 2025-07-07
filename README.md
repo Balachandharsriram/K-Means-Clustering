@@ -46,13 +46,6 @@ It helps in understanding customer behavior, which is valuable for targeted mark
 
 (Or execute step by step in a Jupyter/Colab notebook.)
 
-## 📸 Visualization
-| Elbow Method | Clusters Plot |
-|--------------|---------------|
-| ![Elbow](images/elbow.png) | ![Clusters](images/clusters.png) |
-
-*(Add your saved plots under an `images/` folder and update these paths.)*
-
 ## ✏️ Code Highlights
 ```python
 for i in range(1,11):
@@ -65,7 +58,7 @@ Try DBSCAN or Hierarchical Clustering.
 Use more features (e.g., Age, Gender).
 
 Deploy as a simple web app to upload customer data and see segments.
-
+```
 🙌 Acknowledgements
 Dataset from Kaggle: Mall Customer Segmentation Data
 
